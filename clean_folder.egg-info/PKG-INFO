@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.1.5
+Summary: Sorting files by extensions in a given directory
+Author: Maksym Yurkevych
+License: MIT
